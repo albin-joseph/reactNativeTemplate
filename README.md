@@ -1,4 +1,4 @@
-# React Native Interview Preparation Project
+# React Native Preparation Project
 
 A **production-ready** React Native CLI project demonstrating essential patterns, optimizations, and best practices for **senior-level** mobile development interviews.
 
