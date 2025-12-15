@@ -1,0 +1,3 @@
+export const STORAGE_KEYS = {
+  PRODUCTS: "CACHED_PRODUCTS",
+};
